@@ -196,6 +196,10 @@ div.item10 {
 		font-size: 1.1em;
 		line-height: 1.2em;
 	}
+	div.item1 {
+		padding-top: 10px;
+		padding-bottom: 15px;
+	}
 	div.item6 div.col-xs-12 {
 		padding-left: 6vw;
 		padding-right: 8vw;
